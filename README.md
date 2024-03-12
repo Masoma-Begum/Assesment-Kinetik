@@ -1,2 +1,4 @@
 # Assesment-Kinetik
-Automation test
+Automation test 
+
+All files are manually uploaded here.
